@@ -1,0 +1,2 @@
+# Soil-to-Solution-ML-Based-Crop-Suitability-Analysis
+This notebook explores how machine learning can be used to analyze agricultural data and recommend suitable crops based on soil and environmental conditions. It combines regression and classification models with feature importance techniques to interpret the influence of variables like soil nutrients, temperature, humidity etc on crop suitability.
